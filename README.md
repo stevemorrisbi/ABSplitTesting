@@ -3,7 +3,7 @@
 
 The A/B split testing data tells us that red backgrounds result in higher search impressions than green backgrounds. 
 
-Based on pre-experiment research of colour selection, it appears their potenial validity to the colour red being seen as a 'cue to pay attention'. Further reading - https://www.psychologytoday.com/gb/blog/rewired-the-psychology-technology/201803/obsessiveaddictive-tiny-red-dots
+Based on pre-experiment research of colour selection, it appears there is potenial validity to the colour red being seen as a 'cue to pay attention'. Further reading - https://www.psychologytoday.com/gb/blog/rewired-the-psychology-technology/201803/obsessiveaddictive-tiny-red-dots
 
 ![ab1 (1)](https://user-images.githubusercontent.com/99413257/157263640-eb1a73f6-9024-453d-9884-993ac5de096f.jpg)
 
