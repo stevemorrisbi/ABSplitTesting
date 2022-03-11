@@ -20,7 +20,7 @@ In order for the experiment to be unbias - all A/B listings had to have the same
 
 The visualisations tell us that the general trend is a 20% increase in listing impressions from a green background to a red background. 
 
-One of the limitations of the data is that the assumption has to be made that: listing impressions correlate with the likelyhood of a potential sale. To provide more definite insights into background colour influence on actual sales, sales data (which was not available) would have to be analysed rather assumptions made with active listings.
+One of the limitations of the data is that the assumption has to be made that: listing impressions correlate with the likelyhood of a potential sale. To provide more definite insights into background colour influence on actual sales, sales data (which was not available) would have to be analysed, rather than assumptions made with active listings.
 
 ### Ideas for future A/B split test to be carried out:
 * Does title casing affect listing impressions? SnakeCasing vs ALL CAPS.
