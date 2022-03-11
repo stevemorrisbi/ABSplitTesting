@@ -9,7 +9,7 @@ Based on pre-experiment research of colour selection, it appears there is poteni
 
 ## Data Collection - 
 The data collection process was over a period of 60 days and for 45 items.
-In order for the experiment to be unbias - all A/B listings have to have the same start and end time.
+In order for the experiment to be unbias - all A/B listings had to have the same start and end time.
 
 ### Limitations of the experiement:
 * The assessment was made that 60 days would be enough time to see valuable insights into trends, however, a longer time frame may have altered results.
