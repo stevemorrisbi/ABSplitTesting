@@ -1,5 +1,5 @@
 # A/B Split Testing
-### Overview: Harnessing listing impression data to study how background colour can affect the total views of an item on an Ecommerce platform.
+### Overview: Harnessing listing impression data to study how background colour can affect the total views of an item on an E-commerce platform.
 
 The A/B split testing data tells us that red backgrounds result in higher search impressions than green backgrounds. 
 
