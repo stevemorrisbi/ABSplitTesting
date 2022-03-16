@@ -12,7 +12,7 @@ The data collection process was over a period of 60 days and for 45 items.
 In order for the experiment to be unbias - all A/B listings had to have the same start and end time.
 
 ### Limitations of the experiement:
-* The assessment was made that 60 days would be enough time to see valuable insights into trends, however, a longer time frame may have altered results.
+* The assessment was made that 60 days would be enough time to gain valuable insights into trends, however, a longer time frame may have altered results.
 * More data for the total number of items may have altered results.
 * A variation in the type of item may have altered results. 
 
@@ -26,6 +26,6 @@ One of the limitations of the data is that the assumption has to be made that: l
 * Does title casing affect listing impressions? SnakeCasing vs ALL CAPS.
 * Does emojis in item titles affect listing impressions? Titles with emojis vs titles without.
 * Does including a 'Best Offer' affect listing impressions? Best Offer vs without best offer.
-* Does free postage effect listing impressions? free postage (postage cost included in total item price) vs without free postage.
+* Does free postage affect listing impressions? free postage (postage cost included in total item price) vs without free postage.
 
-The experiment results from these multiple split tests would be useful in creating a template to best maximise impressions for listings. 
+The experiment results combined from these split tests would be useful in creating a template to best maximise impressions for listings. 
